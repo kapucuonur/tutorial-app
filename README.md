@@ -1,6 +1,6 @@
 # API Base URLs
 
-## https://tutorial-api.fullstack.clarusway.com/
+## 
 
 ### API ENDPOINTS
 
@@ -14,4 +14,4 @@
 
 # Deployed Frontend
 
-## https://tutorial.fullstack.clarusway.com/
+## 
